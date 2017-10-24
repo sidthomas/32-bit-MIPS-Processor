@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/IITR Study/Sem 3/Computer Architecture and Microprocessors/Project/Code/file_read/file_read.srcs/sources_1/new/a.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module a
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/IITR Study/Sem 3/Computer Architecture and Microprocessors/Project/Code/file_read/file_read.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/IITR Study/Sem 3/Computer Architecture and Microprocessors/Project/Code/file_read/file_read.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
