@@ -1,0 +1,9 @@
+addi $r2 $r0 35
+add $r3 $r4 $r1
+addi $r9 $r2 163
+or $r20 $r17 $r19
+lw $r7 $r3 80
+and $r15 $r13 $r20
+addi $r6 $r9 274
+and $r20 $r17 $r19
+
